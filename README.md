@@ -553,6 +553,7 @@ do so), like Python and Java.
 - [vaibhavb1693](https://github.com/vaibhavb1693/python-beginner-projects-solution)
 - [cgungaloo](https://github.com/cgungaloo/beginner-project-solutions)
 - [yyyoungha](https://github.com/yyyoungha/beginner-project-solutions)
+- [einyhime](https://github.com/einyhime/beginner-project-solutions)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
