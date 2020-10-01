@@ -554,6 +554,7 @@ do so), like Python and Java.
 - [cgungaloo](https://github.com/cgungaloo/beginner-project-solutions)
 - [yyyoungha](https://github.com/yyyoungha/beginner-project-solutions)
 - [einyhime](https://github.com/einyhime/beginner-project-solutions)
+- [ms1835](https://github.com/ms1835/beginner-projects)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
